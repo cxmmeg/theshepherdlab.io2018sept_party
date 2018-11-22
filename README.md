@@ -6,7 +6,7 @@
 * MCU: STM32F103
 * Flash: W25Q32
 * TFT Screen
-* 8 Buttons
+* 6 Buttons
 * 6 x RGB LED
 
 ![badge0](/pic/tpl_badge.jpg)      
